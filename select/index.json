@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "可愛くてごめん",
   "base_artist": "アーリャ（CV：上坂すみれ）",
-  "createdAt": "2025-12-20T09:26:43.321358Z",
+  "createdAt": "2026-04-01T13:40:40.095781Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -153,8 +153,8 @@
       "source": "lrclib",
       "title": "可愛くてごめん",
       "artist": "アーリャ（CV：上坂すみれ）",
-      "has_synced": true,
-      "path": "select/19_可愛くてごめん_アーリャ(CV_上坂すみれ).lrc"
+      "has_synced": false,
+      "path": "select/19_可愛くてごめん_アーリャ(CV_上坂すみれ).txt"
     },
     {
       "id": "petitlyrics_1",
